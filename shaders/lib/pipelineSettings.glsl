@@ -15,8 +15,6 @@ const int colortex18Format = R8;            //shadow for voxy chunks (needs repr
 const int colortex19Format = RGBA8;         //scene image for voxy reflections (needs reprojection)
 */
 
-//R11F_G11F_B10F
-
 const bool colortex0Clear = true;
 const bool colortex1Clear = false;
 const bool colortex2Clear = false;
